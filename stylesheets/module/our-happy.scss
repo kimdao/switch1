@@ -1,0 +1,34 @@
+.our-happy{
+    background-color: #f2f1f1;
+    .header-happy{
+        text-align: center;
+        padding-bottom: 80px;
+        h2{
+            padding-top: 40px;
+        }
+        hr{
+            border: 2px solid #828181;
+            width: 40px;
+        }
+    }
+    .row {
+        padding-bottom: 60px;
+        .col-3{
+        text-align: center;
+        img{
+        color: #828181;
+        }
+    }
+    .row .padding-row{
+        padding-top: 60px;
+    }
+    .icon-right button{
+        border-radius: 40px;
+        border: 0;
+        color: #ffff;
+        background: green;
+        margin-bottom: 50px;
+        padding: 5px;
+        }
+    }
+}
